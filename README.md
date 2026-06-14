@@ -24,21 +24,28 @@ I'm an **Electronics & Telecommunication Engineering** student at **Jadavpur Uni
 - ⚡ Exploring **AI automation** with **n8n**
 - 📸 Amateur photographer — pairing visuals with code-driven design instincts
 - 🎯 Goal: Freelance frontend/UI developer for modern businesses
-
+- 🎓 Electronics & Telecommunication Engineering Student at Jadavpur University
+- 💻 Frontend Developer focused on React, Tailwind CSS, UI/UX, and AI-assisted workflows.
+- 🚀 Building premium portfolio websites, SaaS interfaces, and business websites.
+- 🌱 Currently learning advanced frontend engineering, design systems, and AI-powered development.
+   
 ---
 
 ## 🚀 Featured Projects
 
 | Project | Description | Live Demo | Repo |
 |---|---|---|---|
-| **Noir Étoile** | Luxury fashion ecommerce experience | [Live](https://noir-etolie.vercel.app/) | [Code](https://github.com/ShibamPandab/Noir-etolie) |
-| **NovaCare Clinics** | Modern healthcare platform UI | [Live](https://nova-care-clinics.vercel.app/) | [Code](https://github.com/ShibamPandab/NovaCare-Clinics) |
-| **Monolith Architecture** | Editorial architecture studio site | [Live](https://monolith-architecture.vercel.app/) | [Code](https://github.com/ShibamPandab/monolith-architecture) |
+| **MyPortfolio** | Personal developer portfolio with a Midnight Luxury UI | [Live](https://shibam-portfolio-omega.vercel.app/) | [Code](https://github.com/ShibamPandab/Shibam-Portfolio) |
+| **FlowPilot AI** | Premium AI SaaS landing page experience | [Live](https://flow-pilot-ai-two.vercel.app/) | [Code](https://github.com/ShibamPandab/FlowPilot.Ai) |
+| **Eternity Films** | Luxury wedding cinematography studio website | [Live](https://eternity-films.vercel.app/) | [Code](https://github.com/ShibamPandab/Eternity-Films) |
 | **Ember & Basil** | Premium fine-dining restaurant UI | [Live](https://ember-basil.vercel.app/) | [Code](https://github.com/ShibamPandab/Ember-Basil) |
 | **LushAura Saloon** | Luxury salon & spa website | [Live](https://lush-aura-saloon.vercel.app/) | [Code](https://github.com/ShibamPandab/LushAura-Saloon) |
 | **Aurum Academy** | Multi-page coaching institute platform | [Live](https://coaching-centre-zeta.vercel.app/) | [Code](https://github.com/ShibamPandab/Coaching-Centre) |
-| **Best of Boston** | Streetwear ecommerce experience | [Live](https://best-of-boston-live.vercel.app/) | [Code](https://github.com/ShibamPandab/Best-of-Boston) |
 | **Umberto North End** | Heritage restaurant landing page | [Live](https://umberto-north-end-live.vercel.app/) | [Code](https://github.com/ShibamPandab/Umberto-North-End) |
+| **Best of Boston** | Streetwear ecommerce experience | [Live](https://best-of-boston-live.vercel.app/) | [Code](https://github.com/ShibamPandab/Best-of-Boston) |
+| **Noir Étoile** | Luxury fashion ecommerce experience | [Live](https://noir-etolie.vercel.app/) | [Code](https://github.com/ShibamPandab/Noir-etolie) |
+| **Monolith Architecture** | Editorial architecture studio site | [Live](https://monolith-architecture.vercel.app/) | [Code](https://github.com/ShibamPandab/monolith-architecture) |
+| **NovaCare Clinics** | Modern healthcare platform UI | [Live](https://nova-care-clinics.vercel.app/) | [Code](https://github.com/ShibamPandab/NovaCare-Clinics) |
 
 ---
 
@@ -75,6 +82,14 @@ I'm an **Electronics & Telecommunication Engineering** student at **Jadavpur Uni
 ## 🤝 Let's Connect
 
 I'm open to **freelance frontend/UI development projects** — especially landing pages, ecommerce frontends, and brand websites with premium design.
+
+## 💼 Services
+
+- Portfolio Websites
+- Business Websites
+- SaaS Landing Pages
+- Frontend Development
+- UI/UX Optimization
 
 📩 Reach out via LinkedIn or email above — let's build something great.
 
