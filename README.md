@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%2B+Tailwind+CSS+Enthusiast;Crafting+Premium+UI%2FUX+Experiences;Learning+C+%26+DSA;Open+for+Freelance+Projects" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shibam-portfolio-omega.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shibampandab.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shibam-pandab)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shibampandab@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_be_shibam_/)
