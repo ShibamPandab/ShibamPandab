@@ -21,7 +21,7 @@ I'm an **Electronics & Telecommunication Engineering** student at **Jadavpur Uni
 
 - 🎓 Electronics & Telecommunication Engineering student at Jadavpur University
 - 💻 Frontend Developer focused on **React, Tailwind CSS, and UI/UX**
-- 📘 Currently learning **C programming** and **DSA** fundamentals
+- 📘 Currently learning **Agency Maintanance** fundamentals
 - ⚡ Into **electronics equipment & hands-on experiments** alongside web work
 - 🚀 Building premium portfolio websites, SaaS interfaces, and business websites
 - 🌱 Currently leveling up in advanced frontend engineering and design systems
