@@ -38,7 +38,7 @@ I'm an **Electronics & Telecommunication Engineering** student at **Jadavpur Uni
 | **AETHER** | Real-time holographic 3D shape menu (Three.js + WebGL) with live shader controls | [Live](https://holographic-3d-menu.vercel.app/) | [Code](https://github.com/ShibamPandab/Holographic-3D-Menu) |
 | **Café Elio** | Multi-page website for a real café in Jadavpur, Kolkata | [Live](https://cafe-elio.vercel.app/) | [Code](https://github.com/ShibamPandab/Cafe-Elio) |
 | **OURA & CO.** | Editorial interior-design studio site (vanilla, accessible) | [Live](https://oura-co-swart.vercel.app/) | [Code](https://github.com/ShibamPandab/OURA-Co) |
-| **MyPortfolio** | Personal developer portfolio with a Midnight Luxury UI | [Live](https://shibam-portfolio-omega.vercel.app/) | [Code](https://github.com/ShibamPandab/Shibam-Portfolio) |
+| **MyPortfolio** | Personal developer portfolio with a Midnight Luxury UI | [Live](https://shibampandab.vercel.app/) | [Code](https://github.com/ShibamPandab/Shibam-Portfolio) |
 | **FlowPilot AI** | Premium AI SaaS landing page experience | [Live](https://flow-pilot-ai-two.vercel.app/) | [Code](https://github.com/ShibamPandab/FlowPilot.Ai) |
 | **Eternity Films** | Luxury wedding cinematography studio website | [Live](https://eternity-films.vercel.app/) | [Code](https://github.com/ShibamPandab/Eternity-Films) |
 | **Ember & Basil** | Premium fine-dining restaurant UI | [Live](https://ember-basil.vercel.app/) | [Code](https://github.com/ShibamPandab/Ember-Basil) |
